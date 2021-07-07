@@ -1,7 +1,5 @@
-# prospective-retrospective-data
-Dataset from human experiment to accompany the manuscript with title "[A predictive processing model of episodic memory and time perception](https://www.biorxiv.org/content/10.1101/2020.02.17.953133v1)".
-
-#
+# Prospective-retrospective experiment dataset
+This repository contains the human data to accompany the manuscript with title "[A predictive processing model of episodic memory and time perception](https://www.biorxiv.org/content/10.1101/2020.02.17.953133v1)".
 
 ### Citation
 If you use this dataset, please cite our paper:
